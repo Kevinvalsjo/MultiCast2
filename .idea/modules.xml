@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiCast2.iml" filepath="$PROJECT_DIR$/MultiCast2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MulticastChatClient_kevinvalsjo.iml" filepath="$PROJECT_DIR$/MulticastChatClient_kevinvalsjo.iml" />
     </modules>
   </component>
 </project>
